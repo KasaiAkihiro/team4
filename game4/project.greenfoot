@@ -1,13 +1,10 @@
 #Greenfoot project file
 class.A.image=ppl2.png
-class.B.image=fish2.png
-class.C.image=snowman.png
-class.D.image=man.png
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
 editor.fx.0.y=0
-height=592
+height=585
 package.numDependencies=0
 package.numTargets=5
 project.charset=UTF-8
