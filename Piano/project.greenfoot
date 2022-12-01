@@ -1,4 +1,6 @@
 #Greenfoot project file
+class.Key.image=\u753B\u50CF1.png
+class.Piano.image=brick.jpg
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
@@ -28,7 +30,7 @@ target1.width=120
 target1.x=0
 target1.y=0
 target2.height=70
-target2.name=key
+target2.name=Key
 target2.showInterface=false
 target2.type=ClassTarget
 target2.width=120
@@ -37,5 +39,5 @@ target2.y=0
 version=3.0.0
 width=824
 world.lastInstantiated=Piano
-xPosition=360
-yPosition=190
+xPosition=580
+yPosition=226
