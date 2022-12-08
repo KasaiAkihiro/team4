@@ -27,4 +27,17 @@ public class Key extends Actor
         setImage(upImage);
         isDown = false; 
     }
+    
+    public void act()
+    {
+        if (!isDown && Greenfoot.isKeyDown(key)) {
+            //play();
+            setImage(downImage);
+            isDown = true;
+        }
+        if (isDown && !Greenfoot.isKeyDown(key)) {
+            setImage(upImage);
+            isDown = false;
+        }
+    }
 }
